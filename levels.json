@@ -67,28 +67,68 @@
   ],
   "platformer": [
     {
-      "name": "I Wanna Be The Guy",
-      "creator": "Alesan99",
-      "difficulty": "Medium Demon",
-      "thumbnail": "https://placehold.co/600x340/e67e22/ecf0f1?text=IWBTG",
-      "video": "https://www.youtube.com",
-      "description": "A recreation of the classic impossible game."
-    },
-    {
-      "name": "Jet Lag",
-      "creator": "DisguisedToast",
-      "difficulty": "Harder",
-      "thumbnail": "https://placehold.co/600x340/16a085/ecf0f1?text=Jet+Lag",
-      "video": "https://www.youtube.com",
-      "description": "A speed-based platformer level."
-    },
-    {
-      "name": "Coaster Mountain",
-      "creator": "Serponge",
+      "name": "Unnamed 0",
+      "creator": "Jakub",
       "difficulty": "Easy Demon",
-      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Coaster",
+      "thumbnail": "https://placehold.co/600x340/e67e22/ecf0f1?text=Unnamed+0",
       "video": "https://www.youtube.com",
-      "description": "Physics based platformer with slopes."
+      "description": "Cancer"
+    },
+    {
+      "name": "Jakub Platformer",
+      "creator": "Martin",
+      "difficulty": "Easy Demon",
+      "thumbnail": "https://placehold.co/600x340/16a085/ecf0f1?text=Jakub+Platformer",
+      "video": "https://www.youtube.com",
+      "description": "Basta fix tam je"
+    },
+    {
+      "name": "MrBench 90kg",
+      "creator": "Jakub",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=MrBench+90kg",
+      "video": "https://www.youtube.com",
+      "description": "Jakubov competition s mojim bastafix lvlom"
+    },
+    {
+      "name": "Tomas Pod Na Mic",
+      "creator": "Jakub",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Tomas+pod+na+mic",
+      "video": "https://www.youtube.com",
+      "description": "idk co mam napisat k tomu"
+    },
+    {
+      "name": "Rindi Dungeon",
+      "creator": "Jakub",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Rindi+Dungeon",
+      "video": "https://www.youtube.com",
+      "description": "broken ass"
+    },
+    {
+      "name": "Free Robuxy",
+      "creator": "Jakub",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Free+Robuxi",
+      "video": "https://www.youtube.com",
+      "description": "ez idk"
+    },
+    {
+      "name": "Dorian Ma Six Pack 2",
+      "creator": "Riso",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Dorian+Ma+Six+Pack+2",
+      "video": "https://www.youtube.com",
+      "description": "otras a hovno 2"
+    },
+    {
+      "name": "Dorian Ma Six Pack",
+      "creator": "Riso",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Dorian+Ma+Six+Pack",
+      "video": "https://www.youtube.com",
+      "description": "otras a hovno"
     }
   ]
 }
