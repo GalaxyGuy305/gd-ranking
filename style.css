@@ -1,0 +1,201 @@
+/* Reset and Base Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 1rem;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+/* Main Container */
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.level-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* Loading State */
+.loading, .error {
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.error {
+    color: #e74c3c;
+}
+
+/* Level Card */
+.level-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    overflow: hidden;
+    display: flex;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.level-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+/* Rank Badge */
+.rank-badge {
+    background-color: #333;
+    color: white;
+    min-width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.rank-badge.top-1 { background-color: #f1c40f; color: #333; } /* Gold */
+.rank-badge.top-2 { background-color: #bdc3c7; color: #333; } /* Silver */
+.rank-badge.top-3 { background-color: #cd7f32; color: white; } /* Bronze */
+
+/* Card Content Layout */
+.card-content-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.card-thumbnail {
+    width: 200px;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.card-details {
+    padding: 1.5rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Text Styling */
+.level-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.level-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-right: 1rem;
+}
+
+.level-creator {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    font-weight: 500;
+    display: block;
+    margin-top: 0.2rem;
+}
+
+.difficulty-tag {
+    background-color: #e74c3c;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.level-description {
+    color: #555;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+/* Button */
+.video-btn {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    align-self: flex-start;
+    transition: background-color 0.2s;
+}
+
+.video-btn:hover {
+    background-color: #2980b9;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    color: #888;
+    font-size: 0.9rem;
+    border-top: 1px solid #eee;
+}
+
+/* Responsive Design (Mobile) */
+@media (max-width: 700px) {
+    .card-content-wrapper {
+        flex-direction: column;
+    }
+    
+    .card-thumbnail {
+        width: 100%;
+        height: 180px;
+    }
+
+    .level-card {
+        flex-direction: column;
+    }
+
+    .rank-badge {
+        width: 100%;
+        height: 40px;
+        min-height: 40px;
+    }
+}

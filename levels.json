@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tidal Wave",
+    "creator": "OniLink",
+    "difficulty": "Extreme Demon",
+    "thumbnail": "https://placehold.co/600x340/2c3e50/ecf0f1?text=Tidal+Wave",
+    "video": "https://www.youtube.com/watch?v=example1",
+    "description": "Currently considered the hardest level in the game. Known for its intense wave gameplay and beach theme."
+  },
+  {
+    "name": "Avernus",
+    "creator": "PockeWindfish",
+    "difficulty": "Extreme Demon",
+    "thumbnail": "https://placehold.co/600x340/c0392b/ecf0f1?text=Avernus",
+    "video": "https://www.youtube.com/watch?v=example2",
+    "description": "A hell-themed level with incredibly tight timings and fixed hitboxes."
+  },
+  {
+    "name": "Acheron",
+    "creator": "Riot & More",
+    "difficulty": "Extreme Demon",
+    "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Acheron",
+    "video": "https://www.youtube.com/watch?v=example3",
+    "description": "A legendary collaboration level that stood at the top for a long time. Classic 1.9 style design."
+  }
+]
