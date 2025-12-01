@@ -1,26 +1,94 @@
-[
-  {
-    "name": "Tidal Wave",
-    "creator": "OniLink",
-    "difficulty": "Extreme Demon",
-    "thumbnail": "https://placehold.co/600x340/2c3e50/ecf0f1?text=Tidal+Wave",
-    "video": "https://www.youtube.com/watch?v=example1",
-    "description": "Currently considered the hardest level in the game. Known for its intense wave gameplay and beach theme."
-  },
-  {
-    "name": "Avernus",
-    "creator": "PockeWindfish",
-    "difficulty": "Extreme Demon",
-    "thumbnail": "https://placehold.co/600x340/c0392b/ecf0f1?text=Avernus",
-    "video": "https://www.youtube.com/watch?v=example2",
-    "description": "A hell-themed level with incredibly tight timings and fixed hitboxes."
-  },
-  {
-    "name": "test",
-    "creator": "Riot & More",
-    "difficulty": "Extreme Demon",
-    "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Acheron",
-    "video": "https://www.youtube.com/watch?v=example3",
-    "description": "A legendary collaboration level that stood at the top for a long time. Classic 1.9 style design."
-  }
-]
+{
+  "classic": [
+    {
+      "name": "Level 2",
+      "creator": "Martin",
+      "difficulty": "Easy Demon",
+      "thumbnail": "https://placehold.co/600x340/2c3e50/ecf0f1?text=Level+2",
+      "video": "https://www.youtube.com/watch?v=example1",
+      "description": "Tazky robot + zevraj impossible sipka"
+    },
+    {
+      "name": "Level 2 Nerf",
+      "creator": "Martin",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/c0392b/ecf0f1?text=Level+2+Nerf",
+      "video": "https://www.youtube.com/watch?v=example2",
+      "description": "Level 2 len lahsi"
+    },
+    {
+      "name": "Riso Challenge",
+      "creator": "Martin",
+      "difficulty": "Insane",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Riso+Challenge",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Challenge level pre risa"
+    },
+    {
+      "name": "Level 1",
+      "creator": "Martin",
+      "difficulty": "Harder",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Level+1",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Zevraj tazka sipka a taky jeden jebnuty skok + bait pri lodke"
+    },
+    {
+      "name": "Stunder",
+      "creator": "Radii",
+      "difficulty": "Harder",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Stunder",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Goofy ahh level od radiiho"
+    },
+    {
+      "name": "Fire Temple",
+      "creator": "Jakub",
+      "difficulty": "Hard",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Fire+Temple",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Jediny normal mode level od jakuba ktory nevyzera jak grcka"
+    },
+    {
+      "name": "Purple Heaven",
+      "creator": "Martin",
+      "difficulty": "Normal",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Purple+Heaven",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Ez level kde som sa sustredil na dekoracie poprvy krat v zivote"
+    },
+    {
+      "name": "Trololololo",
+      "creator": "Jakub",
+      "difficulty": "Normal",
+      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Trololololo",
+      "video": "https://www.youtube.com/watch?v=example3",
+      "description": "Idk ani co to je"
+    }
+  ],
+  "platformer": [
+    {
+      "name": "I Wanna Be The Guy",
+      "creator": "Alesan99",
+      "difficulty": "Medium Demon",
+      "thumbnail": "https://placehold.co/600x340/e67e22/ecf0f1?text=IWBTG",
+      "video": "https://www.youtube.com",
+      "description": "A recreation of the classic impossible game."
+    },
+    {
+      "name": "Jet Lag",
+      "creator": "DisguisedToast",
+      "difficulty": "Harder",
+      "thumbnail": "https://placehold.co/600x340/16a085/ecf0f1?text=Jet+Lag",
+      "video": "https://www.youtube.com",
+      "description": "A speed-based platformer level."
+    },
+    {
+      "name": "Coaster Mountain",
+      "creator": "Serponge",
+      "difficulty": "Easy Demon",
+      "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Coaster",
+      "video": "https://www.youtube.com",
+      "description": "Physics based platformer with slopes."
+    }
+  ]
+}
