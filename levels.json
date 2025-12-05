@@ -8,8 +8,7 @@
       "video": "https://youtu.be/Ue5Scs45Dg4",
       "description": "Tazky robot + zevraj impossible sipka",
       "completions": [
-        { "player": "PlayerA", "score": 100 },
-        { "player": "PlayerB", "score": 80 }
+        { "player": "Martin", "score": 100 }
       ]
     },
     {
@@ -19,7 +18,9 @@
       "thumbnail": "https://img.youtube.com/vi/C4wzU9_3JGY/hqdefault.jpg",
       "video": "https://youtu.be/C4wzU9_3JGY",
       "description": "Level 2 len lahsi",
-      "completions": []
+      "completions": [
+        { "player": "Martin", "score": 100 }
+      ]
     },
     {
       "name": "Riso Challenge",
@@ -28,7 +29,9 @@
       "thumbnail": "https://img.youtube.com/vi/w2D4bOwOK9g/hqdefault.jpg",
       "video": "https://youtu.be/w2D4bOwOK9g",
       "description": "Challenge level pre risa",
-      "completions": []
+      "completions": [
+        { "player": "Martin", "score": 100 }
+      ]
     },
     {
       "name": "Level 1",
@@ -38,7 +41,7 @@
       "video": "https://youtu.be/oJv96QZHMZs",
       "description": "Zevraj tazka sipka a taky jeden jebnuty skok + bait pri lodke",
       "completions": [
-        { "player": "Tester", "score": 50 }
+        { "player": "Martin", "score": 100 }
       ]
     },
     {
@@ -48,7 +51,10 @@
       "thumbnail": "https://img.youtube.com/vi/5XudW0NKRWs/hqdefault.jpg",
       "video": "https://youtu.be/5XudW0NKRWs",
       "description": "Goofy ahh level od radiiho",
-      "completions": []
+      "completions": [
+        { "player": "Radii", "score": 100 },
+        { "player": "Martin", "score": 100 }
+      ]
     },
     {
       "name": "Fire Temple",
@@ -57,7 +63,10 @@
       "thumbnail": "https://img.youtube.com/vi/Rli7BvM93nI/hqdefault.jpg",
       "video": "https://youtu.be/Rli7BvM93nI",
       "description": "Jediny normal mode level od jakuba ktory nevyzera jak grcka",
-      "completions": []
+      "completions": [
+        { "player": "Jakub", "score": 100 },
+        { "player": "Martin", "score": 100 }
+      ]
     },
     {
       "name": "Purple Heaven",
@@ -66,7 +75,9 @@
       "thumbnail": "https://img.youtube.com/vi/UHv8Fj545PI/hqdefault.jpg",
       "video": "https://youtu.be/UHv8Fj545PI",
       "description": "Ez level kde som sa sustredil na dekoracie poprvy krat v zivote",
-      "completions": []
+      "completions": [
+        { "player": "Martin", "score": 100 }
+      ]
     },
     {
       "name": "Trololololo",
@@ -75,7 +86,10 @@
       "thumbnail": "https://img.youtube.com/vi/b9zHVGksqhU/hqdefault.jpg",
       "video": "https://youtu.be/b9zHVGksqhU",
       "description": "Idk ani co to je",
-      "completions": []
+      "completions": [
+        { "player": "Jakub", "score": 100 },
+        { "player": "Martin", "score": 100 }
+      ]
     }
   ],
   "platformer": [
