@@ -4,65 +4,78 @@
       "name": "Level 2",
       "creator": "Martin",
       "difficulty": "Easy Demon",
-      "thumbnail": "https://placehold.co/600x340/2c3e50/ecf0f1?text=Level+2",
-      "video": "https://www.youtube.com/watch?v=example1",
-      "description": "Tazky robot + zevraj impossible sipka"
+      "thumbnail": "https://img.youtube.com/vi/Ue5Scs45Dg4/hqdefault.jpg",
+      "video": "https://youtu.be/Ue5Scs45Dg4",
+      "description": "Tazky robot + zevraj impossible sipka",
+      "completions": [
+        { "player": "PlayerA", "score": 100 },
+        { "player": "PlayerB", "score": 80 }
+      ]
     },
     {
       "name": "Level 2 Nerf",
       "creator": "Martin",
       "difficulty": "Insane",
-      "thumbnail": "https://placehold.co/600x340/c0392b/ecf0f1?text=Level+2+Nerf",
-      "video": "https://www.youtube.com/watch?v=example2",
-      "description": "Level 2 len lahsi"
+      "thumbnail": "https://img.youtube.com/vi/C4wzU9_3JGY/hqdefault.jpg",
+      "video": "https://youtu.be/C4wzU9_3JGY",
+      "description": "Level 2 len lahsi",
+      "completions": []
     },
     {
       "name": "Riso Challenge",
       "creator": "Martin",
       "difficulty": "Insane",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Riso+Challenge",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Challenge level pre risa"
+      "thumbnail": "https://img.youtube.com/vi/w2D4bOwOK9g/hqdefault.jpg",
+      "video": "https://youtu.be/w2D4bOwOK9g",
+      "description": "Challenge level pre risa",
+      "completions": []
     },
     {
       "name": "Level 1",
       "creator": "Martin",
       "difficulty": "Harder",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Level+1",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Zevraj tazka sipka a taky jeden jebnuty skok + bait pri lodke"
+      "thumbnail": "https://img.youtube.com/vi/oJv96QZHMZs/hqdefault.jpg",
+      "video": "https://youtu.be/oJv96QZHMZs",
+      "description": "Zevraj tazka sipka a taky jeden jebnuty skok + bait pri lodke",
+      "completions": [
+        { "player": "Tester", "score": 50 }
+      ]
     },
     {
       "name": "Stunder",
       "creator": "Radii",
       "difficulty": "Harder",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Stunder",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Goofy ahh level od radiiho"
+      "thumbnail": "https://img.youtube.com/vi/5XudW0NKRWs/hqdefault.jpg",
+      "video": "https://youtu.be/5XudW0NKRWs",
+      "description": "Goofy ahh level od radiiho",
+      "completions": []
     },
     {
       "name": "Fire Temple",
       "creator": "Jakub",
       "difficulty": "Hard",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Fire+Temple",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Jediny normal mode level od jakuba ktory nevyzera jak grcka"
+      "thumbnail": "https://img.youtube.com/vi/Rli7BvM93nI/hqdefault.jpg",
+      "video": "https://youtu.be/Rli7BvM93nI",
+      "description": "Jediny normal mode level od jakuba ktory nevyzera jak grcka",
+      "completions": []
     },
     {
       "name": "Purple Heaven",
       "creator": "Martin",
       "difficulty": "Normal",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Purple+Heaven",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Ez level kde som sa sustredil na dekoracie poprvy krat v zivote"
+      "thumbnail": "https://img.youtube.com/vi/UHv8Fj545PI/hqdefault.jpg",
+      "video": "https://youtu.be/UHv8Fj545PI",
+      "description": "Ez level kde som sa sustredil na dekoracie poprvy krat v zivote",
+      "completions": []
     },
     {
       "name": "Trololololo",
       "creator": "Jakub",
       "difficulty": "Normal",
-      "thumbnail": "https://placehold.co/600x340/27ae60/ecf0f1?text=Trololololo",
-      "video": "https://www.youtube.com/watch?v=example3",
-      "description": "Idk ani co to je"
+      "thumbnail": "https://img.youtube.com/vi/b9zHVGksqhU/hqdefault.jpg",
+      "video": "https://youtu.be/b9zHVGksqhU",
+      "description": "Idk ani co to je",
+      "completions": []
     }
   ],
   "platformer": [
@@ -72,7 +85,10 @@
       "difficulty": "Easy Demon",
       "thumbnail": "https://placehold.co/600x340/e67e22/ecf0f1?text=Unnamed+0",
       "video": "https://www.youtube.com",
-      "description": "Cancer"
+      "description": "Cancer",
+      "completions": [
+        { "player": "PlayerZ", "score": 1032.500 }
+      ]
     },
     {
       "name": "Jakub Platformer",
@@ -80,7 +96,12 @@
       "difficulty": "Easy Demon",
       "thumbnail": "https://placehold.co/600x340/16a085/ecf0f1?text=Jakub+Platformer",
       "video": "https://www.youtube.com",
-      "description": "Basta fix tam je"
+      "description": "Basta fix tam je",
+      "completions": [
+        { "player": "PlayerA", "score": 95.123 },
+        { "player": "PlayerB", "score": 150.500 },
+        { "player": "PlayerC", "score": 88.000 }
+      ]
     },
     {
       "name": "MrBench 90kg",
@@ -88,7 +109,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=MrBench+90kg",
       "video": "https://www.youtube.com",
-      "description": "Jakubov competition s mojim bastafix lvlom"
+      "description": "Jakubov competition s mojim bastafix lvlom",
+      "completions": []
     },
     {
       "name": "Tomas Pod Na Mic",
@@ -96,7 +118,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Tomas+pod+na+mic",
       "video": "https://www.youtube.com",
-      "description": "idk co mam napisat k tomu"
+      "description": "idk co mam napisat k tomu",
+      "completions": []
     },
     {
       "name": "Rindi Dungeon",
@@ -104,7 +127,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Rindi+Dungeon",
       "video": "https://www.youtube.com",
-      "description": "broken ass"
+      "description": "broken ass",
+      "completions": []
     },
     {
       "name": "Free Robuxy",
@@ -112,7 +136,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Free+Robuxi",
       "video": "https://www.youtube.com",
-      "description": "ez idk"
+      "description": "ez idk",
+      "completions": []
     },
     {
       "name": "Dorian Ma Six Pack 2",
@@ -120,7 +145,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Dorian+Ma+Six+Pack+2",
       "video": "https://www.youtube.com",
-      "description": "otras a hovno 2"
+      "description": "otras a hovno 2",
+      "completions": []
     },
     {
       "name": "Dorian Ma Six Pack",
@@ -128,7 +154,8 @@
       "difficulty": "Insane",
       "thumbnail": "https://placehold.co/600x340/2980b9/ecf0f1?text=Dorian+Ma+Six+Pack",
       "video": "https://www.youtube.com",
-      "description": "otras a hovno"
+      "description": "otras a hovno",
+      "completions": []
     }
   ]
 }
